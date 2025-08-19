@@ -5,7 +5,7 @@ tags = {
   Clase       = "DMC"
 }
 // RESOURCE GROUP 01------------------------------- 
-rg_01_name = "rg-oarb18-dev-eastus2-001"
+rg_01_name = "rg-oarb18-dev-eastus2-002"
 /*
 // Environments(cae)
 cae_01_name             = "cae-hansqm-dev-eastus2-001"
